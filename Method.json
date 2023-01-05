@@ -1,0 +1,8 @@
+method = [
+   "UDP",
+   "TCP",
+   "BOOTER",
+   "FLOOD",
+   "OVH-BYPASS",
+   "BOOM"
+]
